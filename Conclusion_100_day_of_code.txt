@@ -1,0 +1,42 @@
+This is just the beginning of your journey with Python. There are many more topics to
+explore, including machine learning, web development, game development, and more
+
+
+Where to go from here:
+
+To continue your learning journey, consider exploring the following resoureces:
+
+
+● Python books : There are many execellent books on Python that can help you deepen your
+knowldge and skills. Some Popular options include "Python Crash Course " by Eric Matthes,
+" Automate the Boring Stuff with Python" by Al Sweigart, and "Fluent Python"
+by Luciano Ramalho. I would also like to recommend " Hands on Machine Learning Book
+by Auelien Geron"
+
+● YouTube Projects: There are many YouTube projects availabe which can be watched after you
+have some basic understanding of Python
+
+● Python Communities : There are many online communities where you can connect with other
+Python learners and experts, ask questions, and share your knowledge. Some popular options
+include the Python Subreddit, the Python Discord server, and Pythn community on Stack Overflow.
+
+● GitHub repositories: GitHub is a great resource for finding Python projects, libraries,
+and code snippets. Some useful repositories to check out include "awesome-python"
+( a curated list of Python resources), "scikit-learn" ( a machine learning library),
+and "django" ( a web development framework).
+
+
+Link to some resources
+
+● Tkinter - You can learn Tkinter wich is used to crate GUIs from here
+  https://www.cs.mcgill.ca/~hv/classes/MS/TkinterPres/#Overview
+
+  
+● Machine Learning - Learn from Google Developers
+  https://youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+
+● Django - for Django, try the tutorial from the official documentation.
+
+
+Overall, the key to mastering Python (or any programming language) is to keep practicing and
+experimenting. Set yourself challenges, work on personal projects and stay curious.
